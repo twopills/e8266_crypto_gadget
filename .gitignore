@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#vscode
+.vscode
+
+#exclude config file
+src/main/config/myHelpers.h
